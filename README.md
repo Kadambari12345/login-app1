@@ -1,0 +1,1 @@
+This Android application provides a basic login interface featuring two input fields for username and password. Upon entering valid credentials and clicking the login button, the user is directed to a welcome screen. The app demonstrates fundamental concepts of user interface design, input handling, and activity navigation using Android Studio and Java
